@@ -3,7 +3,7 @@ This project dives into the world of e-commerce, exploring sales data to uncover
 
 ✨ Highlights
 📈 Data Analysis: Discover trends in sales, profitability, and customer behavior across regions and categories.
-🤖 Machine Learning: Predict future sales based on key variables like quantity, discount, and category. 
+🤖 Machine Learning: Predict future sales based on key variables like quantity, discount, and category.  
 📊 Interactive Dashboard: Visualize insights and make real-time predictions using an intuitive interface.
 🔍 Clustering and Segmentation: Group customers/products to target high-value opportunities.
 ✅ Profitability Classifier: Quickly identify which products are likely to drive profits.
