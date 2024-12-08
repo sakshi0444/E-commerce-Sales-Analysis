@@ -6,7 +6,7 @@ This project dives into the world of e-commerce, exploring sales data to uncover
 🤖 Machine Learning: Predict future sales based on key variables like quantity, discount, and category.  
 📊 Interactive Dashboard: Visualize insights and make real-time predictions using an intuitive interface.
 🔍 Clustering and Segmentation: Group customers/products to target high-value opportunities.
-✅ Profitability Classifier: Quickly identify which products are likely to drive profits.
+✅ Profitability Classifier: Quickly identify which products are likely to drive profits. 
 💻 Technologies Used
 Programming: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
